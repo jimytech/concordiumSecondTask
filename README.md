@@ -9,7 +9,7 @@ Project: hello-world-contract
 Description: It is a basic smart-contract, with two string state variables, the country of origin and the greeting message, which can be updated from the functions: country and hello. This allowed me to verify all the configuration and the basic development environment of cargo-concordium, plus of course the initial syntax of the Rust programming language and the basic commands for the implementation, deployment, update, testing and visualization of the smart-contract state variables.
 
 
-## deploy: 878fb4c7deadc5ba4037a13b4976ae1baedcd55fdcbdc94a51622f10a84112e3
+## deploy: 3c6fe7bc21a264b27c05fcf9906e1cae7bb8c0d1efde3ad69a82b15e4dff92ae
 ## init: b66661bc4fb5f57e16d7ee7187758b65809ddc426647bc82b0020a382cc9244e
 ## update: 0bd319634425caed264cec9d3fbc337099e3c90a43d8899a0a0790107293bd47
 ## invoke: n/a (see screen in the end)
@@ -18,7 +18,7 @@ Description: It is a basic smart-contract, with two string state variables, the 
 
 ![1 1deploy](https://user-images.githubusercontent.com/39538184/218757541-fbccc459-dc22-4e50-a95e-b570c60137d2.png)
 
-Transaction hash: 878fb4c7deadc5ba4037a13b4976ae1baedcd55fdcbdc94a51622f10a84112e3
+Transaction hash: 3c6fe7bc21a264b27c05fcf9906e1cae7bb8c0d1efde3ad69a82b15e4dff92ae
 
 # Console output + transaction hash of contract init in text format
 
