@@ -40,3 +40,5 @@ Transaction hash: 0bd319634425caed264cec9d3fbc337099e3c90a43d8899a0a0790107293bd
 
 ![4 invoke](https://user-images.githubusercontent.com/39538184/218758521-366458a7-22b1-47d4-bb2f-4437ad929835.png)
 
+## Mainnet address: 3XK874y4R5QYaxHWwEoUmp9J3DqrknjBCuCD8qzD52Z5rrKvQM
+
